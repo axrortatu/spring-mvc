@@ -1,0 +1,11 @@
+1. Asror auth service
+2. Shodiyor /admin yolga borganda templateni ishga tushirib berish
+3. Shoxrux Categoriyani chiqarish
+4. Rovshan Productni Chiqarish
+5. Diyor Categoriyani crud
+6. Begzod Productni crud
+7. Jasur vs Samandar savatchani ichi
+8. SaidAllohon, Abdulatif, Adash botni
+9. Mubosher product infoni chiqarish
+10.Odil Order ni adminga chiqarish filterlash productName, UserPhoneNum, date, accept, reject
+11.Abdulhafiz may cabinetga kirganda orderlarini korsatas, user edit
