@@ -6,6 +6,7 @@ import org.example.dto.UserLoginRequest;
 import org.example.dto.UserRegisterRequest;
 import org.example.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
