@@ -10,10 +10,8 @@ import org.springframework.web.servlet.ModelAndView;
 public class HomeController {
 
     @GetMapping("")
-    public ModelAndView login(){
-        ModelAndView modelAndView =
-                new ModelAndView("index");
-        return modelAndView;
+    public String login(){
+        return "templates/admin/transaction/list";
     }
     @GetMapping("sign-up")
     public ModelAndView signUp(){

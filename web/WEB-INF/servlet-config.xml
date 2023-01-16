@@ -14,8 +14,8 @@ http://www.springframework.org/schema/mvc/spring-mvc.xsd">
     <!-- Add support for conversion, formatting and validation support -->
     <mvc:annotation-driven/>
     <!-- Define Spring MVC view resolver -->
-    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/view/"/>
-        <property name="suffix" value=".jsp"/>
-    </bean>
+<!--    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">-->
+<!--        <property name="prefix" value="/view/"/>-->
+<!--        <property name="suffix" value=".html"/>-->
+<!--    </bean>-->
 </beans>
